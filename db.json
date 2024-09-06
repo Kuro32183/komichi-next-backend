@@ -1,0 +1,579 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "ボディがま口",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "clothes",
+      "imageUrl": "/junbi.jpeg",
+      "price": 8800,
+      "condition": "used",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 2,
+      "title": "エプロン",
+      "description": "ありがとう.",
+      "category": "shoes",
+      "imageUrl": "/junbi.jpeg",
+      "price": 11000,
+      "condition": "new",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 3,
+      "title": "ボディがま口",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "book",
+      "imageUrl": "/junbi.jpeg",
+      "price": 8800,
+      "condition": "new",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+
+    {
+      "id": 4,
+      "title": "ペットボトル入れ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/products/other/pet1.webp",
+      "price": 2750,
+      "condition": "used",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 5,
+      "title": "あずま袋",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/junbi.jpeg",
+      "price": 2200,
+      "condition": "new",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 6,
+      "title": "キーリング",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/junbi.jpeg",
+      "price": 660,
+      "condition": "new",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 7,
+      "title": "前掛け",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/products/other/short-apron.webp",
+      "price": 3850,
+      "condition": "new",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 8,
+      "title": "こみちポーチ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/products/other/komichi-porch.webp",
+      "price": 2750,
+      "condition": "new",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 9,
+      "title": "スマホがま口",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/products/other/sumahogama.webp",
+      "price": 2750,
+      "condition": "new",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+
+    {
+      "id": 10,
+      "title": "親子がま口",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "book",
+      "imageUrl": "/products/gama/oyako.webp",
+      "price": 6050,
+      "condition": "new",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/martin_000c.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 11,
+      "title": "がま口ポーチ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "book",
+      "imageUrl": "/products/gama/gama-porch.webp",
+      "price": 3300,
+      "condition": "used",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+
+    {
+      "id": 12,
+      "title": "リュックがま口",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "book",
+      "imageUrl": "/products/gama/gama-zack.webp",
+      "price": 14000,
+      "condition": "new",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+
+    {
+      "id": 13,
+      "title": "保温バッグ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "clothes",
+      "imageUrl": "/junbi.jpeg",
+      "price": 4400,
+      "condition": "used",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 14,
+      "title": "がま口鞄",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "clothes",
+      "imageUrl": "/products/bag/gama-bag.webp",
+      "price": 14300,
+      "condition": "used",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 15,
+      "title": "がま口ショルダー",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "clothes",
+      "imageUrl": "/products/bag/gama-shoulder.webp",
+      "price": 14300,
+      "condition": "used",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+
+    {
+      "id": 16,
+      "title": "スマホがま口",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/products/gama/sumahogama.webp",
+      "price": 2420,
+      "condition": "used",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 17,
+      "title": "ふくさ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/products/other/hukusa3.webp",
+      "price": 2420,
+      "condition": "new",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 18,
+      "title": "ティッシュ入れ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/products/other/tissuecase2.webp",
+      "price": 770,
+      "condition": "new",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 19,
+      "title": "鍵くるくる",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/products/other/key-kurukuru2.webp",
+      "price": 3300,
+      "condition": "used",
+      "owner": {
+        "id": 2,
+        "username": "takuya",
+        "displayName": "Takuya Tejima",
+        "email": "takuya@example.com",
+        "profileImageUrl": "/users/2.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 20,
+      "title": "小銭くるくる",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/products/other/kozeni-kurukuru.webp",
+      "price": 1100,
+      "condition": "used",
+      "owner": {
+        "id": 2,
+        "username": "takuya",
+        "displayName": "Takuya Tejima",
+        "email": "takuya@example.com",
+        "profileImageUrl": "/users/2.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 21,
+      "title": "小物くるくる",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/products/other/komono-kurukuru.webp",
+      "price": 1650,
+      "condition": "new",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 22,
+      "title": "古銭付き長財布",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "shoes",
+      "imageUrl": "/products/other/kosen-nagazaihu.webp",
+      "price": 3300,
+      "condition": "new",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 23,
+      "title": "がま口ショルダー",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "book",
+      "imageUrl": "/products/gama/gama-shoulder.webp",
+      "price": 14300,
+      "condition": "used",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 24,
+      "title": "がま口鞄",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "book",
+      "imageUrl": "/products/gama/gama-bag.webp",
+      "price": 14300,
+      "condition": "used",
+      "owner": {
+        "id": 3,
+        "username": "kourin",
+        "displayName": "Yoshiki Takabayashi",
+        "email": "kourin@example.com",
+        "profileImageUrl": "/users/3.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 25,
+      "title": "がま口",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "book",
+      "imageUrl": "/products/gama/gama1.webp",
+      "price": 1430,
+      "condition": "new",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 26,
+      "title": "ボディバッグ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "clothes",
+      "imageUrl": "/products/bag/bodybag1.webp",
+      "price": 8800,
+      "condition": "used",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 27,
+      "title": "ミニグラニーバッグ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "clothes",
+      "imageUrl": "/products/bag/granny-mini.webp",
+      "price": 6050,
+      "condition": "used",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 28,
+      "title": "グラニーバッグ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "clothes",
+      "imageUrl": "/products/bag/granny1.webp",
+      "price": 6050,
+      "condition": "used",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 29,
+      "title": "ミニトートバッグ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "clothes",
+      "imageUrl": "/products/bag/toto-mini.webp",
+      "price": 6050,
+      "condition": "new",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 30,
+      "title": "中トートバッグ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "clothes",
+      "imageUrl": "/products/bag/toto1.webp",
+      "price": 6050,
+      "condition": "new",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 31,
+      "title": "横トートバッグ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "clothes",
+      "imageUrl": "/products/bag/toto-side.webp",
+      "price": 6050,
+      "condition": "new",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    },
+    {
+      "id": 32,
+      "title": "縦トートバッグ",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.\nIt was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "category": "clothes",
+      "imageUrl": "/products/bag/toto-vertical.webp",
+      "price": 6050,
+      "condition": "new",
+      "owner": {
+        "id": 1,
+        "username": "taketo",
+        "displayName": "Taketo Yoshida",
+        "email": "taketo@example.com",
+        "profileImageUrl": "/users/1.png",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "taketo",
+      "displayName": "Taketo Yoshida",
+      "email": "taketo@example.com",
+      "profileImageUrl": "/users/1.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    },
+    {
+      "id": 2,
+      "username": "takuya",
+      "displayName": "Takuya Tejima",
+      "email": "takuya@example.com",
+      "profileImageUrl": "/users/2.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    },
+    {
+      "id": 3,
+      "username": "kourin",
+      "displayName": "Yoshiki Takabayashi",
+      "email": "kourin@example.com",
+      "profileImageUrl": "/users/3.png",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    }
+  ]
+}
